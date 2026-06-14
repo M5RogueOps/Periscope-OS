@@ -44,7 +44,9 @@
 ```
 <img width="1980" height="1050" alt="FW-image" src="https://github.com/user-attachments/assets/07cfb639-b31c-49ae-92e7-57df089fe2cd" />
 ---
-## What Does It Do?
+
+
+## 🛠️ What Does It Do?
 
 Turn your M5StickS3 into a pocket-sized signals intelligence powerhouse with Periscope-OS. Designed for tactical cybersecurity auditing, this passive 2.4GHz RF spectrum analyzer acts as a sonar radar deck right in your hands. It silently sweeps the airwaves, tracking and logging Wi-Fi deauthentication attacks and suspicious management frames in real-time.
 
