@@ -42,7 +42,7 @@
  For educational, defensive validation, and security auditing telemetry mapping only.
 =========================================================================================
 ```
-
+<img width="1980" height="1050" alt="FW-image" src="https://github.com/user-attachments/assets/07cfb639-b31c-49ae-92e7-57df089fe2cd" />
 ---
 
 ## 🛠️ Hardware Requirements & Specifications
