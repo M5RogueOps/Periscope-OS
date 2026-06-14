@@ -1,7 +1,5 @@
 # Periscope-OS (v2.0.0-SIGINT) 📡⚓
 
----
-
 /*
 =========================================================================================
  
@@ -44,7 +42,6 @@
  For educational, defensive validation, and security auditing telemetry mapping only.
 =========================================================================================
 */
-```
 
 **Periscope-OS** is an open-source, passive 2.4GHz RF Spectrum Analyzer and Tactical Signals Intelligence (SIGINT) Radar Suite custom-built for the **M5Stack M5StickS3**. 
 
