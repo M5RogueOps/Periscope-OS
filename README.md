@@ -44,6 +44,12 @@
 ```
 <img width="1980" height="1050" alt="FW-image" src="https://github.com/user-attachments/assets/07cfb639-b31c-49ae-92e7-57df089fe2cd" />
 ---
+## What Does It Do?
+Turn your M5StickS3 into a pocket-sized signals intelligence powerhouse with Periscope-OS. Designed for tactical cybersecurity auditing, this passive 2.4GHz RF spectrum analyzer acts as a sonar radar deck right in your hands. It silently sweeps the airwaves, tracking and logging Wi-Fi deauthentication attacks and suspicious management frames in real-time.
+
+Featuring deep packet inspection, Periscope-OS can instantly identify attacker hardware vendors and determine if an incoming threat is a manual injection or an automated micro-script. The built-in IMU syncs with a slick spatial radar interface, dynamically guiding you toward threat vectors using visual indicators, spatial audio pings, and haptic proximity alerts.
+
+Need to go dark? Engage Silent Running mode for covert, haptic-only tracking. Complete with onboard flash logging and a dynamic channel-hopping equalizer, this tool is an absolute must-have for defensive telemetry mapping. Ready to lock onto the invisible threats in your airspace? Deploy Periscope-OS today.
 
 ## 🛠️ Hardware Requirements & Specifications
 
