@@ -36,7 +36,7 @@
  [?] SOURCE REPO : https://github.com/M5RogueOps/Periscope-OS
  [?] DEV HUB     : www.EthicalHackersDen.org
 =========================================================================================
- LICENSE: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+ LICENSE: MIT License
  For educational, defensive validation, and security auditing telemetry mapping only.
 =========================================================================================
 */
