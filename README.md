@@ -125,7 +125,6 @@ Activated by holding **Button B** for 2 seconds. This screen reads compressed, p
    ```bash
    git clone [https://github.com/M5RogueOps/Periscope-OS.git](https://github.com/M5RogueOps/Periscope-OS.git)
 
-```
 
 2. Open the project directory inside the **Arduino IDE**.
 3. Ensure you have the **ESP32 Arduino Core v3.x** installed via the Board Manager.
@@ -149,6 +148,6 @@ Developed by **@M5RogueOps** * **Developer Hub:** [www.EthicalHackersDen.org](ht
 
 *Disclaimer: Periscope-OS is a strictly passive wireless reconnaissance tool designed for educational, defensive validation, and security auditing telemetry mapping only.*
 
-```
 
-```
+
+
