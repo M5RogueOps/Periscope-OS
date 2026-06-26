@@ -124,7 +124,8 @@ Activated by holding **Button B** for 2 seconds. This screen reads compressed, p
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/M5RogueOps/Periscope-OS.git](https://github.com/M5RogueOps/Periscope-OS.git)
-
+```
+```
 
 2. Open the project directory inside the **Arduino IDE**.
 3. Ensure you have the **ESP32 Arduino Core v3.x** installed via the Board Manager.
